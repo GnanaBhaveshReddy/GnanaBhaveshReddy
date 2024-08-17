@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GyanaBhaveshReddy
+- 👋 Hi, I’m @GnanaBhaveshReddy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning aql
 - 💞️ I’m looking to collaborate on ORACLE
